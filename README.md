@@ -27,7 +27,7 @@
   或
 
   ```shell
-  brew cask install imagealph
+  brew cask install imagealpha
   ```
 
 * 3.安装imageoptim-cli
